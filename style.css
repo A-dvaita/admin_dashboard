@@ -11,16 +11,19 @@ html{
 }
 
 header{
+    border: 1px solid black;
     grid-column: 2 / -1;
     grid-row: 1 / 2;
 }
 
 .sidebar{
+    border: 1px solid black;
     grid-column: 1 / 2;
     grid-row: 1 / -1;
 }
 
 .main-content{
+    border: 1px solid black;
     grid-column: 2 / -1;
     grid-row: 2 / -1;
 }
