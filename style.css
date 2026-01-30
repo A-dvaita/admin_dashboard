@@ -11,19 +11,16 @@ html{
 }
 
 header{
-    background-color: pink;
     grid-column: 2 / -1;
     grid-row: 1 / 2;
 }
 
 .sidebar{
-    background-color: yellow;
     grid-column: 1 / 2;
     grid-row: 1 / -1;
 }
 
 .main-content{
-    background-color: orange;
     grid-column: 2 / -1;
     grid-row: 2 / -1;
 }
